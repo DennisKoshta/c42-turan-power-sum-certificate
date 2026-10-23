@@ -1,0 +1,4 @@
+python-flint==0.9.0
+# cross-check only (crosscheck/):
+numpy>=2.0
+scipy>=1.11
